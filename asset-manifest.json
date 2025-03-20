@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/syahrull-dc/Latihan-5-Web/static/css/main.e6c13ad2.css",
+    "main.js": "/syahrull-dc/Latihan-5-Web/static/js/main.b17f6704.js",
+    "static/js/453.82489804.chunk.js": "/syahrull-dc/Latihan-5-Web/static/js/453.82489804.chunk.js",
+    "index.html": "/syahrull-dc/Latihan-5-Web/index.html",
+    "main.e6c13ad2.css.map": "/syahrull-dc/Latihan-5-Web/static/css/main.e6c13ad2.css.map",
+    "main.b17f6704.js.map": "/syahrull-dc/Latihan-5-Web/static/js/main.b17f6704.js.map",
+    "453.82489804.chunk.js.map": "/syahrull-dc/Latihan-5-Web/static/js/453.82489804.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b17f6704.js"
+  ]
+}
