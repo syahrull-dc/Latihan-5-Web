@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/syahrull-dc/Latihan-5-Web/static/css/main.e6c13ad2.css",
-    "main.js": "/syahrull-dc/Latihan-5-Web/static/js/main.b17f6704.js",
-    "static/js/453.82489804.chunk.js": "/syahrull-dc/Latihan-5-Web/static/js/453.82489804.chunk.js",
-    "index.html": "/syahrull-dc/Latihan-5-Web/index.html",
-    "main.e6c13ad2.css.map": "/syahrull-dc/Latihan-5-Web/static/css/main.e6c13ad2.css.map",
-    "main.b17f6704.js.map": "/syahrull-dc/Latihan-5-Web/static/js/main.b17f6704.js.map",
-    "453.82489804.chunk.js.map": "/syahrull-dc/Latihan-5-Web/static/js/453.82489804.chunk.js.map"
+    "main.css": "/Latihan-5-Web/static/css/main.e6c13ad2.css",
+    "main.js": "/Latihan-5-Web/static/js/main.c2ebc39a.js",
+    "static/js/453.82489804.chunk.js": "/Latihan-5-Web/static/js/453.82489804.chunk.js",
+    "index.html": "/Latihan-5-Web/index.html",
+    "main.e6c13ad2.css.map": "/Latihan-5-Web/static/css/main.e6c13ad2.css.map",
+    "main.c2ebc39a.js.map": "/Latihan-5-Web/static/js/main.c2ebc39a.js.map",
+    "453.82489804.chunk.js.map": "/Latihan-5-Web/static/js/453.82489804.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b17f6704.js"
+    "static/js/main.c2ebc39a.js"
   ]
 }
